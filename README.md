@@ -22,4 +22,7 @@ That is so because Anaconda had the "import" keyword in the regex inside the fil
  Also i use a custom Python3 build system so i can set the settings i want through the building process.
  Of course python interpreter path is different so this is the only modification you need according to your system path (system, virtualenv).
 
+Below is a screenshot of the Grayspace theme with Mariana coloscheme and material theme partial usage
 
+
+![alt text](https://github.com/vakosel/Sublime-Settings-Python/blob/master/Sublime_Grayspace_theme.png)
