@@ -4,6 +4,7 @@
     "lint_mode": "load_save",
     "linters": {
         "flake8": {
+              "executable": ["python", "-m", "flake8"],
             "args": ["--ignore=E501,E127,E128,W191"],
         }
     }
