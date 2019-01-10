@@ -7,13 +7,15 @@ PACKAGES
 2) NeoVintageous (for Vim emulation)
 3) SublimeLinter
 4) SublimeLinter-flake8
-5) Material Theme (used part of it)
+5) File​System Autocompletion
 6) SpaceGray Theme (my favorite)
 7) A file icon (icons in the sidebar)
 8) BracketHighlighter
 9) PackageResourceViewer
 10) Dayle Rees Colorschemes
-
+11) FindKeyConflicts
+12) Anaconda 
+13) Python Debugger 
 
 If you want to use my settings feel free to do so .
 Just place them in your  /Packages/User folder , restart Sublime and  that's it.
