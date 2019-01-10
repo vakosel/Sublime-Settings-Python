@@ -13,6 +13,6 @@
         "E501"
     ],
  	"anaconda_linting": false,
-    "python_interpreter":"C:\\tools\\python37\\python.exe",
+    "python_interpreter":"/usr/bin/python",
 
  }
